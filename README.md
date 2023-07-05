@@ -33,13 +33,13 @@ To set up the necessary dependencies, run the following command to install them:
 
     streamlit run app.py
 
-    - The application will start, and you can access it through your browser at http://localhost:8501.
+- The application will start, and you can access it through your browser at http://localhost:8501.
 
-    - Upload an image: Click on the "Upload image here" button and select an image file (PNG, JPG, or JPEG).
+- Upload an image: Click on the "Upload image here" button and select an image file (PNG, JPG, or JPEG).
 
-    - Background removal: The application will process the image using the FCN-ResNet101 model and remove the background, generating an image without the background.
+- Background removal: The application will process the image using the FCN-ResNet101 model and remove the background, generating an image without the background.
 
-    - View the results: The original image and the image without the background will be displayed side by side.
+- View the results: The original image and the image without the background will be displayed side by side.
 
 Feel free to customize and extend the application based on your specific requirements.
 
