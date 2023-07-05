@@ -28,12 +28,12 @@ The application loads the pre-trained FCN-ResNet101 model and allows you to uplo
 To set up the necessary dependencies, run the following command to install them:
 
     ```shell
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 ### Usage
 
     ```shell
-    streamlit run app.py
+streamlit run app.py
 
 - The application will start, and you can access it through your browser at http://localhost:8501.
 
